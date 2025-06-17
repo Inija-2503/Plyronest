@@ -18,7 +18,7 @@ export const Collabration = () => {
           {/* Kalpataru Logo Card */}
           <div className="shadow-box bg-box-bg rounded-2xl p-4 transition-transform duration-300 hover:scale-105">
             <img
-              src="/assets/Images/logo1.png"
+              src="assets/Images/logo1.png"
               alt="Kalpataru College Logo"
               className="w-28 h-28 object-contain rounded-full"
             />
@@ -27,7 +27,7 @@ export const Collabration = () => {
           {/* Plyronest Logo Card */}
           <div className="shadow-box bg-box-bg rounded-2xl p-4 transition-transform duration-300 hover:scale-105">
             <img
-              src="/assets/Images/logo.png"
+              src="assets/Images/logo.png"
               alt="Plyronest Logo"
               className="w-40 h-auto object-contain"
             />

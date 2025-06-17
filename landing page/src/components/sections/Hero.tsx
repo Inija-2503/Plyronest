@@ -80,7 +80,7 @@ export const Hero = () => {
 
         <div className="flex flex-1 lg:w-1/2 lg:h-auto relative lg:max-w-none lg:mx-0 mx-auto max-w-3xl">
           <img
-            src="../../../public/assets/Images/freepik-i-want-an-image-for-a-research-and-training-image-for-the-website-20250611035707HABD.png"
+            src="/assets/Images/freepik-i-want-an-image-for-a-research-and-training-image-for-the-website-20250611035707HABD.png"
             alt="Hero image"
             width={2350}
             height={2359}

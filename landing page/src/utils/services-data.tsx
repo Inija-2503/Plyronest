@@ -2,12 +2,12 @@ export const services = [
   {
     title: "Training & Development",
     description: "Empower your team with the skills they need to succeed.",
-    image:"../../public/assets/Images/Training.jpg"
+    image:"assets/Images/Training.jpg"
   },
   {
     title: "Internship",
     description: "Gain hands-on experience through real-world projects and guided mentorship.",
-    image:"../../public/assets/Images/internship.png"
+    image:"assets/Images/internship.png"
   },
   {
     title: "Marketing & Growth",
@@ -17,16 +17,16 @@ export const services = [
   {
     title: "Funding & Support",
     description: "Secure the right financial support to scale your innovative ideas.",
-    image:"../../public/assets/Images/funding.png"
+    image:"assets/Images/funding.png"
   },
   {
     title: "Event Organizing",
     description: "Connect, learn, and grow through workshops, seminars, and networking events.",
-    image:"../../public/assets/Images/Event.png"
+    image:"assets/Images/Event.png"
   },
   {
     title: "Photography",
     description: "Capture your vision with professional photography tailored to your brand.",
-    image:"../../public/assets/Images/photography.png"
+    image:"assets/Images/photography.png"
   },
 ];

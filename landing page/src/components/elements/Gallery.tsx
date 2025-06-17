@@ -1,5 +1,5 @@
 // components/Gallery.tsx
-const images = Array.from({ length: 8 }, (_, i) => `../../public/assets/Images/img${i + 1}.jpg`);
+const images = Array.from({ length: 8 }, (_, i) => `assets/Images/img${i + 1}.jpg`);
 
 export const Gallery = () => {
   return (

@@ -26,7 +26,7 @@ export const Navbar = () => {
           {/* Logo */}
           <div className="min-w-max inline-flex relative z-50">
             <a href="/" className="relative flex items-center gap-6">
-              <img src="../../../public/assets/Images/logo.png" alt="PLYRoNeST Logo" className="w-40 h-15" />
+              <img src="assets/Images/logo.png" alt="PLYRoNeST Logo" className="w-40 h-15" />
               {/* <div className="inline-flex text-lg font-semibold text-heading-1">
                 Plyronest
               </div> */}
