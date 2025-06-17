@@ -9,7 +9,7 @@ export const Footer = () => {
       <Container className="pb-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center gap-6 mb-4 md:mb-0">
-            <img src="../../../public/assets/Images/logo.png" className="w-40 h-15" alt="Plyronest Logo" />
+            <img src="assets/Images/logo.png" className="w-40 h-15" alt="Plyronest Logo" />
             {/* <span className="text-lg font-semibold text-heading-1 ">Plyronest</span> */}
           </div>
 

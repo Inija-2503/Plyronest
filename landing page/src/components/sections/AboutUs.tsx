@@ -11,7 +11,7 @@ export const AboutUs = () => {
         <div className="w-full md:w-5/12 lg:w-1/2">
           <div className="w-full h-80 sm:h-96 relative">
             <img
-              src="../../../public/assets/Images/freepik__the-style-is-candid-image-photography-with-natural__46174.png"
+              src="assets/Images/freepik__the-style-is-candid-image-photography-with-natural__46174.png"
               className="w-full h-full object-cover rounded-3xl shadow-lg relative z-10"
               alt="About Our Mission"
             />

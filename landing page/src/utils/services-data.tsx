@@ -12,7 +12,7 @@ export const services = [
   {
     title: "Marketing & Growth",
     description: "Boost your brand with data-driven marketing strategies and creative campaigns.",
-    image:"../../public/assets/Images/Marketing.png"
+    image:"assets/Images/Marketing.png"
   },
   {
     title: "Funding & Support",
